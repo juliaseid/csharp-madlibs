@@ -8,6 +8,10 @@ namespace MadLibs.Controllers
     [Route("/")]
     public ActionResult Home() { return View(); }
 
+    [Route("/vacationform")]
+    public ActionResult VacationForm() { return View(); }
+    [Route("/zooform")]
+    public ActionResult ZooForm() { return View(); }
     [Route("/vacation")]
     public ActionResult Vacation(string adjective1, string adjective2, string noun1, string noun2, string pluralnoun1, string game, string pluralnoun2)
     {
@@ -25,11 +29,11 @@ namespace MadLibs.Controllers
 
     [Route("/zoo")]
 
-    public ActionResult Zoo(string adjective1, string animal2, string noun1, string verbpast1, string adverb1, string adjective2, string noun2, string food, string color, string animal2)
+    public ActionResult Zoo(string adjective1, string animal1, string noun1, string verbpast1, string adverb1, string adjective2, string noun2, string food, string color, string animal2)
     {
       ZooEntries madLib = new ZooEntries();
       madLib.Adjective1 = adjective1;
-      madLib.Animal2 = animal2;
+      madLib.Animal1 = animal1;
       madLib.Noun1 = noun1;
       madLib.VerbPast1 = verbpast1;
       madLib.Adverb1 = adverb1;

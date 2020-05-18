@@ -20,5 +20,8 @@
 /Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.dll
 /Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.pdb
 /Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/MadLibs.csproj.CopyComplete
-/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/Form.g.cshtml.cs
-/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/MadLibs.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/Home.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/Vacation.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/VacationForm.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/Zoo.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/ZooForm.g.cshtml.cs
