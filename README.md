@@ -1,41 +1,29 @@
 # ASP.NET Core MadLibs
 
-## by Julia Seid & Ethan Firpo (2020)
+## by Julia Seidman & Ethan Firpo (2020)
 
 ## Description
 
-This site will allow a user to enter an amount in one currency and see the exchange rate and value of that amount in another chosen currency.
+This site will allow a user to fill out various MadLib forms and see their input as a complete story.
 
 ## Setup
 
-Clone this repository. Install Node. In your terminal, type npm install. Then type npm run start. Open the built server if it does not open automatically.
+Clone repository. Makes sure .NET Core is installed on your computer. Build and run the server. Navigate to your local host. 
 
 ## Technology
 
 #### HTML
 #### CSS
-#### Bootstrap Style Library
-#### Animate CSS Style Library
 #### JavaScript
-#### jQuery Script Library
-#### Node
-#### Webpack
-#### ExchangeRate API
-
-## Specs
-|Behavior|Input|Output|
-|-----|-----|-----|
-|Program will take input amount from user and store it|100.00|amount: 100.00|
-|Program will allow the user to choose a foregin currency and store it|Canadian Dollars|targetCurrency: CAD|
-|Program will make call to ExchangeRate API|?|?|
-|Program will use information from API to calculate exchange rates|100.00 USD|141.17 CAD|
-
+#### C#
+#### .NET
+#### ASP.NET Core
 
 ## Legal
 
 #### MIT License
 
-### Copyright (c) 2020 Ethan Alexander Firpo
+### Copyright (c) 2020 Julia Seidman Ethan Alexander Firpo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
