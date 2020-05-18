@@ -25,3 +25,5 @@
 /Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/VacationForm.g.cshtml.cs
 /Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/Zoo.g.cshtml.cs
 /Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/ZooForm.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/Labor.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp2.2/Razor/Views/Home/LaborForm.g.cshtml.cs
