@@ -1,6 +1,6 @@
 namespace MadLibs.Models
 {
-  public class MadLibEntries
+  public class VacationEntries
   {
     public string Adjective1 { get; set; }
     public string Adjective2 { get; set; }
